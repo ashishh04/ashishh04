@@ -94,21 +94,14 @@ I'm a **Cloud and Automation Engineer at Intertec Systems** (Visakhapatnam), whe
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white">
 <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white">
 
-## Featured projects
+## ⚡ Fun fact
 
-| Project | What it does | Stack |
-|---|---|---|
-| [**One Piece**](https://github.com/ashishh04/One-Piece) | Autonomous multi-agent system (Router, Research, Chat) with sub-25ms backend latency, governed task execution and Pinecone semantic memory | Python · FastAPI · LangChain · Pinecone · Redis · React |
-| [**Enterprise RAG**](https://github.com/ashishh04/Enterprise-RAG) | RAG assistant over internal documents; 40% faster retrieval at under 200ms search latency | Python · FastAPI · FAISS · GPT-4o · React |
-| [**Threat Detection (YOLOv8)**](https://github.com/ashishh04/Threat_Detect_YOLOv8) | Real-time weapon and intruder detection on live CCTV at 92% mAP@50, under 100ms inference | Python · YOLOv8 · OpenCV · CUDA · Streamlit |
+I optimise AI systems not just for accuracy, but for real-time performance under 100ms latency.
 
-**Professional work** (company-owned, so not public): an agentic AI platform for IT operations with 10 LangGraph agents and human approval gates, an ITSM platform of 15+ Spring Boot microservices, an AIOps root-cause analysis pilot on AWS Bedrock, and a project-delivery platform with 220+ APIs. Case studies are on my [portfolio](https://ashishhdev.me).
-
-## GitHub activity
+## ✍️ Random dev quote
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ashishh04&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishh04&layout=compact&hide_border=true" alt="Top languages">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random dev quote">
 </p>
 
 ---
