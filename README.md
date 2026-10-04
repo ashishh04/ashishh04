@@ -1,19 +1,109 @@
-# About Me:
-I’m currently working as<br>Software Engineer at Juvarya Technologies, designing Full Stack AI Automation end-to-end pipelines.<br>
-<br>I’m looking to collaborate on 🤝 <br>AI/ML projects in Computer Vision, Generative AI, and real-time intelligent systems.<br><br>🛠 I’m looking for help with<br>Scaling autonomous agents, LLM orchestration (LangGraph), and production-grade AI deployment.<br><br>🌱 I’m currently learning<br>Advanced GenAI architectures, multimodal AI systems, and optimization of large-scale models.<br><br>💬 Ask me about<br>Real-time Computer Vision pipelines (YOLOv8, ArcFace), Autonomous AI agent architectures, Vision–Language Models (BLIP, VQA), LLM orchestration workflows, GPU optimization (CUDA), and scalable backend-driven AI systems with secure authentication and database integration.<br><br><br>⚡ Fun fact<br>I optimize AI systems not just for accuracy — but for real-time performance under 100ms latency.<br>
+<h1 align="center">Appalabathula Ashish</h1>
+<h3 align="center">Software Engineer · Agentic AI · Cloud & Microservices</h3>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aashish004) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/FakedCLaW) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashishh432004@gmail.com) 
-
-# 💻 Tech Stack:
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=flat&logo=nVIDIA&logoColor=green) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=flat&logo=gunicorn&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=flat&logo=apache-cassandra&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=flat&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat&logo=Twilio&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat&logo=nVIDIA&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white)
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <a href="https://ashishhdev.me"><img src="https://img.shields.io/badge/Portfolio-ashishhdev.me-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://linkedin.com/in/aashish004"><img src="https://img.shields.io/badge/LinkedIn-aashish004-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:ashishh432004@gmail.com"><img src="https://img.shields.io/badge/Email-ashishh432004%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ashishh04&icon=3&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About me
+
+I'm a **Cloud and Automation Engineer at Intertec Systems** (Visakhapatnam), where I build enterprise platforms end to end: Java/Spring Boot microservices, Python and Node.js backends, React and Angular frontends, and **AI agents that investigate, wait for human approval, then act**.
+
+- **Now:** building multi-tenant SaaS and AIOps platforms with LangGraph agents on AWS Bedrock, and event-driven Spring Boot microservices.
+- **Before:** Software Engineer at Juvarya Technologies, and GenAI / Computer Vision intern at BigDataMatica (NASSCOM COE).
+- **I care about:** secure-by-default design, human-in-the-loop AI, automated testing and writing architecture decisions down.
+- **Education:** B.Tech in Computer Science & Engineering, ANITS (2022–2026), CGPA 8.5.
+- **Certified:** Redis Associate Developer.
+
+## What I work on
+
+| Area | What that means in practice |
+|---|---|
+| **Agentic AI** | LangGraph agent runtimes with approval gates, LLM tool calling, multi-agent routing, RAG, LLM cost control |
+| **Backend & Microservices** | Spring Boot / Spring Cloud services, API gateways, OAuth2/JWT, event-driven notifications, multi-tenancy |
+| **Full-Stack** | React and Angular apps, TypeScript, Node.js (Fastify), FastAPI |
+| **Computer Vision** | YOLOv8 detection, ArcFace face recognition, real-time GPU inference |
+| **Quality & Delivery** | JUnit, pytest, Playwright, Vitest, Docker, GitHub Actions, Azure DevOps |
+
+## Tech stack
+
+**Languages**
+<br>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white">
+
+**Backend**
+<br>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/Fastify-000000?style=flat&logo=fastify&logoColor=white">
+<img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white">
+<img src="https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white">
+
+**Frontend**
+<br>
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white">
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white">
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white">
+
+**AI / ML**
+<br>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white">
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white">
+<img src="https://img.shields.io/badge/AWS_Bedrock-232F3E?style=flat&logo=amazonwebservices&logoColor=white">
+<img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white">
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white">
+<img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat&logo=yolo&logoColor=black">
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white">
+<img src="https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white">
+
+**Data & Vector Stores**
+<br>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white">
+<img src="https://img.shields.io/badge/Pinecone-000000?style=flat&logoColor=white">
+<img src="https://img.shields.io/badge/FAISS-0467DF?style=flat&logoColor=white">
+<img src="https://img.shields.io/badge/pgvector-336791?style=flat&logo=postgresql&logoColor=white">
+
+**Cloud & DevOps**
+<br>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white">
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white">
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white">
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white">
+
+**Testing**
+<br>
+<img src="https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white">
+<img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white">
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white">
+<img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white">
+
+## ⚡ Fun fact
+
+I optimise AI systems not just for accuracy, but for real-time performance under 100ms latency.
+
+## ✍️ Random dev quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random dev quote">
+</p>
+
+---
+
+<p align="center"><b>Open to</b> Software Engineer, Backend Engineer and AI Engineer roles. The fastest way to reach me is <a href="mailto:ashishh432004@gmail.com">email</a> or <a href="https://linkedin.com/in/aashish004">LinkedIn</a>.</p>
